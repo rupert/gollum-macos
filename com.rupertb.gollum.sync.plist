@@ -12,5 +12,9 @@
         <true/>
         <key>StartInterval</key>
         <integer>60</integer>
+        <key>WatchPaths</key>
+        <array>
+            <string>/Users/rupert/Developer/wiki/.git/refs/heads/master</string>
+        </array>
     </dict>
 </plist>
