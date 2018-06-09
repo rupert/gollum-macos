@@ -5,7 +5,7 @@
         <key>Label</key>
         <string>com.rupertb.gollum.sync</string>
         <key>Program</key>
-        <string>/Users/rupert/Developer/gollum-service/sync.sh</string>
+        <string>/Users/rupert/Developer/gollum-macos/sync.sh</string>
         <key>WorkingDirectory</key>
         <string>/Users/rupert/Developer/wiki</string>
         <key>RunAtLoad</key>
