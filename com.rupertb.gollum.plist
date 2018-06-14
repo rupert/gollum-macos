@@ -4,10 +4,16 @@
     <dict>
         <key>Label</key>
         <string>com.rupertb.gollum</string>
-        <key>Program</key>
-        <string>/usr/local/bin/gollum</string>
+        <key>ProgramArguments</key>
+        <array>
+            <string>/usr/local/bin/gollum</string>
+            <string>--plantuml-url=http://www.plantuml.com/plantuml/svg</string>
+            <string>--emoji</string>
+            <string>--allow-uploads=dir</string>
+            <string>/Users/rupert/Developer/wiki</string>
+        </array>
         <key>WorkingDirectory</key>
-        <string>/Users/rupert/Developer/wiki</string>
+        <string>/Users/rupert/Developer/gollum-macos</string>
         <key>KeepAlive</key>
         <true/>
         <key>RunAtLoad</key>
