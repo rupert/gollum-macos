@@ -10,6 +10,7 @@
             <string>--plantuml-url=http://www.plantuml.com/plantuml/svg</string>
             <string>--emoji</string>
             <string>--allow-uploads=dir</string>
+            <string>--css</string>
             <string>/Users/rupert/Developer/wiki</string>
         </array>
         <key>WorkingDirectory</key>
