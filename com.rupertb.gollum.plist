@@ -10,6 +10,7 @@
             <string>--emoji</string>
             <string>--allow-uploads=dir</string>
             <string>--css</string>
+            <string>--js</string>
             <string>/Users/rupert/Developer/wiki</string>
         </array>
         <key>WorkingDirectory</key>
