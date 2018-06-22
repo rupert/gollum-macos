@@ -7,7 +7,6 @@
         <key>ProgramArguments</key>
         <array>
             <string>/usr/local/bin/gollum</string>
-            <string>--plantuml-url=http://www.plantuml.com/plantuml/svg</string>
             <string>--emoji</string>
             <string>--allow-uploads=dir</string>
             <string>--css</string>
